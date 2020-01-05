@@ -1,1 +1,1 @@
-# variational-quantum-eigensolver
+# The Variational Quantum Eigensolver
